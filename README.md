@@ -1,10 +1,9 @@
 *Database Rules*
-
-<code>
+```json
 {
   "rules": {
     ".read": true,
     ".write": true
   }
 }
-</code>
+```
